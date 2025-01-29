@@ -2,6 +2,3 @@
 	path = cabal
 	url = https://github.com/gentoo-haskell/cabal.git
 	branch = 3.8
-[submodule "hackage-security"]
-	path = hackage-security
-	url = https://github.com/haskell/hackage-security.git
